@@ -1,9 +1,8 @@
-:root{ /*css variables, facilita assim não precisamos escrever varias vezes*/
-    /*FONT*/
-    --font-dm-sans:"DM Sans", sans-serif:
+:root{
+    /* FONT */
+    --font-dm-sans:"DM Sans", sans-serif;
 
-
-/*colors*/
-    --bg-icon: #131313;
-    --bg-arrow-color: rgba(0,0,07);
+    /* COLORS */
+    --bg-icon:#131313;
+    --bg-arrow-color:rgba(0,0,0,7)
 }
